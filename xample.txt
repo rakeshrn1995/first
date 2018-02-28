@@ -1,3 +1,8 @@
 sample txt file for praticing
 GITHUB PUSH and PULL
 successfully PUSHED to github..
+
+
+
+switched to branch develop..
+trying to push the xample.txt from develop branch...
